@@ -6,6 +6,9 @@ Create a new app using code.quarkus.io.
 ```
 https://code.quarkus.io/
 ```
+```
+https://quarkus.io/guides/getting-started
+```
 
 ### Start application
 ```
